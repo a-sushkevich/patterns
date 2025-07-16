@@ -1,0 +1,1 @@
+"Define an iterface for creating an object, but let subclasses decide which class to instatiate. Factory Method lets a class defer instantiation to subclasses."
