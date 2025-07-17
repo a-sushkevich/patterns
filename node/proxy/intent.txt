@@ -1,0 +1,1 @@
+"Provide a surrogate or palceholder for another object to control access to it."
