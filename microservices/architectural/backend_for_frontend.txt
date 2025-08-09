@@ -1,0 +1,1 @@
+"Tailored backend services per frontend to avoid over-fetching or under-fetching."

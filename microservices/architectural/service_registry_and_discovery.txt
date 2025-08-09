@@ -1,0 +1,1 @@
+"Automatically register and locate services in dynamic environments."

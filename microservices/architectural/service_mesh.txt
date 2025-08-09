@@ -1,0 +1,1 @@
+"Offloads service-to-service communication conscerns using proxies."
