@@ -1,0 +1,1 @@
+"Keep services small and focused."
