@@ -1,0 +1,1 @@
+"Manage distributed transactions with compensation."

@@ -1,0 +1,1 @@
+"Communicate via message queues for eventual consistency."

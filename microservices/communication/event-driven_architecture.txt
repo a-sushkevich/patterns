@@ -1,0 +1,1 @@
+"Publish/subscribe to events for decoupling and reactivity"
