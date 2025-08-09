@@ -1,0 +1,1 @@
+"Use Domain-Driven Design to split services by bounded contexts."
