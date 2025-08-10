@@ -1,0 +1,51 @@
+Foundational & Conceptual
+These help you understand why microservices exist, architectural principles, and trade-offs.
+
+1. Building Microservices (2nd Edition) — Sam Newman
+The “go-to” microservices book. Covers core concepts, service boundaries, communication patterns, deployment, and organizational impacts.
+
+2. Microservices Patterns — Chris Richardson
+Deep dive into patterns like Saga, CQRS, Event Sourcing, API Gateway, and handling distributed data. Includes Java/Spring examples, but concepts are universal.
+
+3. The Art of Scalability — Martin L. Abbott & Michael T. Fisher
+Explains scaling from people to process to technology — valuable for understanding microservices in a growing system.
+
+Design & Best Practices
+For people building or migrating systems to microservices.
+
+4. Monolith to Microservices — Sam Newman
+Practical guidance on decomposing a monolith step-by-step without causing chaos.
+
+5. Designing Distributed Systems — Brendan Burns
+Written by a Kubernetes co-founder, it focuses on reusable patterns for cloud-native microservices.
+
+6. Fundamentals of Software Architecture — Mark Richards & Neal Ford
+Not microservices-only, but compares architecture styles, including when not to choose microservices.
+
+Operations, Reliability & Scaling
+If you already know microservices theory and want to run them in production.
+
+7. Release It! (2nd Edition) — Michael T. Nygard
+Essential reading on building resilient, fault-tolerant services that survive production chaos.
+
+8. Site Reliability Engineering — Google SRE Team
+Explains reliability practices for distributed systems — applies heavily to microservices.
+
+9. Cloud Native Patterns — Cornelia Davis
+Practical patterns for building scalable, reliable services in a cloud-native way.
+
+Domain-Driven Design & Service Boundaries
+Microservices live or die based on the right boundaries.
+
+10. Domain-Driven Design — Eric Evans (the blue book)
+The original — tough read but explains the strategic thinking behind bounded contexts.
+
+11. Implementing Domain-Driven Design — Vaughn Vernon
+More practical than Evans’ book, with examples for service decomposition.
+
+12. Team Topologies — Matthew Skelton & Manuel Pais
+Shows how to structure teams around services to avoid communication bottlenecks.
+
+💡 Recommendation if you’re starting fresh:
+Read Building Microservices → Microservices Patterns → Monolith to Microservices.
+Then branch into resilience (Release It!) and team/org design (Team Topologies).
