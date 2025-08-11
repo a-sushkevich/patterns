@@ -4,7 +4,7 @@ These help you understand why microservices exist, architectural principles, and
 1. Building Microservices (2nd Edition) — Sam Newman
 The “go-to” microservices book. Covers core concepts, service boundaries, communication patterns, deployment, and organizational impacts.
 
-2. Microservices Patterns — Chris Richardson
+2. Microservices Patterns — Chris Richardson (2nd Edition)
 Deep dive into patterns like Saga, CQRS, Event Sourcing, API Gateway, and handling distributed data. Includes Java/Spring examples, but concepts are universal.
 
 3. The Art of Scalability — Martin L. Abbott & Michael T. Fisher
