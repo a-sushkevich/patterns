@@ -1,0 +1,3 @@
+Controlled: State lives in React, value controlled by props.
+
+Uncontrolled: State lives in the DOM via refs.

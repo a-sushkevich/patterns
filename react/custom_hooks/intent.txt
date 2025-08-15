@@ -1,0 +1,3 @@
+Idea: Extract reusable stateful logic into a function starting with use.
+
+Benefit: Encapsulate side effects and state without HOCs or render props.
