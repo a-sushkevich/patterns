@@ -1,0 +1,4 @@
+Idea: A function that takes a component and returns a new component with additional props or logic.
+Benefit: Reuse logic across multiple components.
+
+Note: In modern React, hooks often replace HOCs.
