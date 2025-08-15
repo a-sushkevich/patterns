@@ -1,0 +1,3 @@
+Idea: Multiple related components work together via shared context.
+
+Benefit: Cleaner API for complex components (e.g., dropdowns, tabs).
