@@ -1,0 +1,4 @@
+Idea: Separate logic (data fetching, state) from UI rendering.
+Container components: Handle state, side effects, and data.
+Presentational components: Only render UI based on props.
+Benefit: Encourages separation of concerns.
