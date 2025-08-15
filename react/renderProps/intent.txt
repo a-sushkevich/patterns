@@ -1,0 +1,3 @@
+Idea: Pass a function as a prop that returns JSX, allowing logic sharing.
+
+Benefit: Flexible code reuse without inheritance.
