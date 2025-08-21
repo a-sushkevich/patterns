@@ -1,0 +1,3 @@
+Idea: Share global state without prop drilling.
+
+Benefit: Cleanly manage theme, auth, or configuration data.
