@@ -1,0 +1,3 @@
+Idea: Let the parent control state changes via a reducer.
+
+Benefit: Flexible, reusable components with customizable behavior.
